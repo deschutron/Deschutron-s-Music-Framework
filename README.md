@@ -17,8 +17,8 @@ You convert to sounds like this:
     Melody.from_numbers([[1, 1.5, 2]].with({nl: .25, key: 330})).play();
 
 Using just this framework, I've made these songs:
-https://soundcloud.com/deschutron/xeb
-https://soundcloud.com/deschutron/step-up
-https://soundcloud.com/deschutron/angla
-https://soundcloud.com/deschutron/haptera
-https://soundcloud.com/deschutron/plug-away-short
+* https://soundcloud.com/deschutron/xeb
+* https://soundcloud.com/deschutron/step-up
+* https://soundcloud.com/deschutron/angla
+* https://soundcloud.com/deschutron/haptera
+* https://soundcloud.com/deschutron/plug-away-short
